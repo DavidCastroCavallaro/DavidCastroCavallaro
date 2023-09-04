@@ -45,6 +45,7 @@ As an Expert in Asset Valuation, Business Interruption, and Claims Preparation a
     # 📞 Contact Me
 
 I'm committed to providing innovative solutions and excellent customer service. Feel free to reach out to me for any inquiries or collaborations.
+
 <div> 
   <a href="https://www.linkedin.com/in/david-cavallaro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
