@@ -31,11 +31,7 @@ As an Expert in Asset Valuation, Business Interruption, and Claims Preparation a
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCastroCavallaro&repo=github-readme-stats&theme=radical&hide_border=false"  width="400px" />  
     
 </div>
-
-# 📞 Contact Me
-
-I'm committed to providing innovative solutions and excellent customer service. Feel free to reach out to me for any inquiries or collaborations.
-
+# <img src="   https://cdn-icons-png.flaticon.com/512/2881/2881142.png " width="50" height="50" alt="" title="" class="img-small"> Programming languages
 <div style="display: inline_block"><br>
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="David-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -44,9 +40,12 @@ I'm committed to providing innovative solutions and excellent customer service. 
   <img align="center" alt="David-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
 </div>
   
-  ##
- 
+  
 <div> 
-   <a href="https://www.linkedin.com/in/david-cavallaro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  # 📞 Contact Me
+
+I'm committed to providing innovative solutions and excellent customer service. Feel free to reach out to me for any inquiries or collaborations.
+
+  <a href="https://www.linkedin.com/in/david-cavallaro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
