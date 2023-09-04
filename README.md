@@ -42,7 +42,7 @@ As an Expert in Asset Valuation, Business Interruption, and Claims Preparation a
   <img align="center" alt="David-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
 </div>
   
-    # 📞 Contact Me
+# 📞 Contact Me
 
 I'm committed to providing innovative solutions and excellent customer service. Feel free to reach out to me for any inquiries or collaborations.
 
