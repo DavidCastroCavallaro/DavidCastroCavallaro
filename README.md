@@ -31,7 +31,9 @@ As an Expert in Asset Valuation, Business Interruption, and Claims Preparation a
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCastroCavallaro&repo=github-readme-stats&theme=radical&hide_border=false"  width="400px" />  
     
 </div>
-# <img src="https://cdn-icons-png.flaticon.com/512/2881/2881142.png" width="150" height="150" alt="" title="" class="img-small"> Programming languages
+
+# 👨‍💻 Programming languages:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="David-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
