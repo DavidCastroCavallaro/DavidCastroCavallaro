@@ -14,7 +14,7 @@ I possess strong project management and team leadership skills, complemented by 
 
 # 🌎 International Experience
 
-Fluent in English, Spanish, and Italian, I have an international cultural background, including a year and a half of studies at ILAC in Vancouver, Canada, and enrollment in the Professional Master's in International Management/CEMS at FGV. My client-centric and collaborative approach always aims to exceed expectations by delivering innovative and high-quality solutions.
+Fluent in English, Spanish, Portuguese, and Italian, I have an international cultural background, including a year and a half of studies at ILAC in Vancouver, Canada, and enrollment in the Professional Master's in International Management/CEMS at FGV. My client-centric and collaborative approach always aims to exceed expectations by delivering innovative and high-quality solutions.
 
 # 💼 Current Role
 
