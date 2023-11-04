@@ -20,18 +20,6 @@ Fluent in English, Spanish, and Italian, I have an international cultural backgr
 
 As an Expert in Asset Valuation, Business Interruption, and Claims Preparation at Marsh, I assist clients in navigating complex insurance claims related to asset loss, business interruption, and profit loss. My responsibilities include assessing the value of insurable assets, ensuring policy compliance, and minimizing unnecessary premium payments. This role demands exceptional communication and negotiation skills, which I have honed over time. I take pride in building strong relationships with clients, insurers, and other stakeholders, effectively representing their interests throughout the claims process. I am a dedicated team player committed to managing complex projects and advocating for the best interests of clients.
 
-
-# 📊 GitHub Stats:
-<div>
-  <a href="https://github.com/DavidATMarsh">
-  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=DavidCastroCavallaro&theme=radical&hide_border=false&include_all_commits=false&count_private=false"  width="400px" />
-</div>
-    
-<div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCastroCavallaro&repo=github-readme-stats&theme=radical&hide_border=false"  width="400px" />  
-    
-</div>
-
 # 👨‍💻 Programming languages:
 
 <div style="display: inline_block"><br>
